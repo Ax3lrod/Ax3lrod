@@ -9,8 +9,8 @@ Welcome to my GitHub! I'm a passionate Software Engineer based in Surabaya, Indo
 - 🎓 Currently studying at **Institut Teknologi Sepuluh Nopember (ITS)**.
 - 💻 Building modern, scalable, and aesthetic web applications.
 - 🌱 Always learning and exploring **Fullstack Development, System Architecture, and Cloud**.
-- 📫 Reach out to me at: **[aryasatyagigachad9@gmail.com](mailto:aryasatyagigachad9@gmail.com)**
-- 🌐 Check out my portfolio! (Links in my pinned repositories)
+- 📫 Reach out to me at: **[aryasatyaalaauddin@gmail.com](mailto:aryasatyaalaauddin@gmail.com)**
+- 🌐 Check out my portfolio: **[aryasatyaa.vercel.app](https://aryasatyaa.vercel.app)**
 
 ---
 
@@ -28,18 +28,18 @@ Welcome to my GitHub! I'm a passionate Software Engineer based in Surabaya, Indo
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Ax3lrod&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ax3lrod's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ax3lrod&theme=synthwave" alt="Ax3lrod's GitHub Stats" />
   <br/><br/>
   
-  <img src="https://streak-stats.demolab.com?user=Ax3lrod&theme=tokyonight&hide_border=true&background=0D1117" alt="Ax3lrod's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Ax3lrod&theme=synthwave&hide_border=true" alt="Ax3lrod's GitHub Streak" />
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ax3lrod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ax3lrod's Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ax3lrod&theme=synthwave" alt="Ax3lrod's Top Languages" />
   
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ax3lrod&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ax3lrod&label=Profile%20views&color=ff007f&style=flat" alt="Profile views" />
 </p>
